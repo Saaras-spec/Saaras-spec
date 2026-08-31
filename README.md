@@ -101,21 +101,31 @@ Currently focused on becoming a stronger problem solver through consistent pract
 
 <p align="center">
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+<a href="https://leetcode.com/u/Saaras_Bisht/">
+  <img src="https://leetcard.jacoblin.cool/Saaras_Bisht?theme=dark&font=baloo&ext=heatmap" />
+</a>
 
 </p>
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/Saaras_Bisht/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 ---
+
+## 🔥 LeetCode Activity
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Saaras_Bisht/">
+  <img src="https://leetcard.jacoblin.cool/Saaras_Bisht?theme=dark&font=baloo&ext=activity" />
+</a>
+
+</p>
 
 # 🔥 LeetCode Progress
 
